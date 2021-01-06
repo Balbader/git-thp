@@ -1,6 +1,6 @@
 # git-thp
 
-Ceci est mont tout premier repw GitHub, waow!
+Ceci est mont tout premier repo GitHub, waow!
 
 
 Welcome to the official git repo dedicated to The Hacking Project bootcamp (www.thehackingproject.org).<br>
